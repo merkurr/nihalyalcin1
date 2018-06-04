@@ -8,8 +8,9 @@ Menünün içerisinde her seçilen web terminolojisinin sayfası bulunmaktadır.
 
 Sayfanın sol kısmında web terminolojisinin açıklaması, sağ kısmında ise terminolojinin açıklandığı bir video bulunmaktadır.
 
-###İndex.html
+### İndex.html
 İndex.html web sitesinin giriş sayfasıdır. Web terminolojilerinin ne olduğunu açıklamaktadır.
 İndex.html bu web sitesinin oluşturucu işlemidir
 
-Bu web sayfası Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü Çoklu Ortam Tasarımı ve Üretimi dersi final projesi kapsamında yapılmıştır.
+
+> Bu web sayfası Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü Çoklu Ortam Tasarımı ve Üretimi dersi final projesi kapsamında yapılmıştır.
